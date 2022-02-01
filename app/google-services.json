@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "855490363353",
+    "firebase_url": "https://training-wheels-e578c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "training-wheels-e578c",
+    "storage_bucket": "training-wheels-e578c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855490363353:android:16209f61455e4ac9e6e3c8",
+        "android_client_info": {
+          "package_name": "com.example.trainingwheels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855490363353-9rn0sr10l01a7ko7tq47sl3rgitt7bjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMklMXrN1PLoe22Wa0IUJ36K-HVLt0eOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855490363353-9rn0sr10l01a7ko7tq47sl3rgitt7bjj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
